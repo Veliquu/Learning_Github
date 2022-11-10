@@ -2,7 +2,8 @@
 This is repo is, me trying to learn to use github
 
 Learning to put code/commands
-    $ mkdir newdir
+
+        $ mkdir newdir
 
 ```bash
 $ mkdir newdir
@@ -11,7 +12,7 @@ $ mkdir newdir
 ## Heading2
 
 More code
-    system.out.println("Hei maailma")
+        system.out.println("Hei maailma")
     
 
 ```bash
