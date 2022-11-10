@@ -5,6 +5,7 @@ Learning to put code/commands
 
         $ mkdir newdir
 
+Code using "```"
 ```bash
 $ mkdir newdir
 ```
@@ -15,7 +16,7 @@ More code
        
        system.out.println("Hei maailma")
     
-
+Code using "```"
 ```bash
 system.out.println("Hei maailma")
 ```
