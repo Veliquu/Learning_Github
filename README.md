@@ -21,6 +21,6 @@ Code using "```"
 system.out.println("Hei maailma")
 ```
 
-![git testailua](https://github.com/Veliquu/Learning_Github/blob/main/git_testailua.png = 100x100)
+![git testailua](https://github.com/Veliquu/Learning_Github/blob/main/git_testailua.png) = 100x100
 
 
